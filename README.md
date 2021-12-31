@@ -5,6 +5,9 @@
 
 * :rocket: I’m currently working on **Build my skill**.
 
-* I’m currently learning **React js, Node js, Express js, MongoDb, CSS**
+* :computer: I’m currently learning **React js, Node js, Express js, MongoDb, CSS**
 
 * I’m looking to collaborate on open Source Project.
+
+### Connect with me:
+
