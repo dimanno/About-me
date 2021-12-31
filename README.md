@@ -10,4 +10,5 @@
 * I’m looking to collaborate on open Source Project.
 
 ### Connect with me:
+(https://www.linkedin.com/in/dmytro-petskovych-47ba69123/)
 
